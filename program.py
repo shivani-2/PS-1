@@ -20,6 +20,7 @@ def SpeakText(command):
 	
 # Loop infinitely for user to speak
 
+print("---------------------------------------------------------------------------------")
 print("Please speak ")
 c=1
 while(c==1):
