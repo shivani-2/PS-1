@@ -1,4 +1,4 @@
-# PS-1
+Text to Speech SYnthesis
 
 Problem Statement 14
 __________________
